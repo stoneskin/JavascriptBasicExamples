@@ -10,9 +10,9 @@
 
 
 ## 1.JavaScript in Web Pages ##
-- _<script>_
+- _script_
 - _src attribute_
-- _<noscript>_
+- _noscript_
 ### 1.1 Script ###
 ```
 <!DOCTYPE html>
