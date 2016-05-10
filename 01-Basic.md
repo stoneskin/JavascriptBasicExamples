@@ -13,7 +13,7 @@
 - _<script>_
 - _src attribute_
 - _<noscript>_
-### 1.1 Script ##
+### 1.1 Script ###
 ```
 <!DOCTYPE html>
 <html>
